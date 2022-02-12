@@ -7,7 +7,7 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Chanin Nantasenamat, Ph.D.
+# Sashank Makanaboyina
 ##### *Resume* 
 ''')
 
@@ -28,7 +28,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
-  <a class="navbar-brand" href="https://youtube.com/dataprofessor" target="_blank">Chanin Nantasenamat</a>
+  <a class="navbar-brand"  target="_blank">Sashank Makanaboyina</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -100,11 +100,10 @@ st.markdown('''
 - Thesis awarded `1st` Prize by the National Research Council of Thailand.
 ''')
 
-txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+txt('**Bachelors of Science** (Computer Science), *PES University*, India',
+'2015-2019')
 st.markdown('''
-- GPA: `3.65`
-- Graduated with First Class Honors.
+- Graduated with First Class.
 ''')
 
 #####################
@@ -204,13 +203,6 @@ txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Di
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/chanin-nantasenamat')
-txt2('Twitter', 'https://twitter.com/thedataprof')
-txt2('GitHub', 'https://github.com/chaninn/')
-txt2('', 'https://github.com/chaninlab/')
-txt2('', 'https://github.com/dataprofessor')
-txt2('ORCID', 'http://orcid.org/0000-0003-1040-663X')
-txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
-txt2('ResearcherID', 'http://www.researcherid.com/rid/F-1021-2010')
-txt2('ResearchGate', 'https://www.researchgate.net/profile/Chanin_Nantasenamat')
-txt2('Publons', 'https://publons.com/a/303133/')
+txt2('LinkedIn', 'https://www.linkedin.com/in/sashank-makanaboyina/')
+txt2('GitHub', 'https://github.com/scam2k')
+
