@@ -133,11 +133,10 @@ st.markdown('''
 ## Projects
 ''')
 txt4('Music Genre Classification ', 'Music Genre Classification using Random Forrest and Decision Tree Classifer to develop a model with `97% F1 Score`', 'https://github.com/scam2k/Eli_Lilly')
-txt4('Genes sequences causing bladder cancer', 'A classification model using tableau and python to detect three types of bladder cancer among ` 7000+ ` unique gene expression', 'https://github.com/SanchariGautam14/Bladder_Cancer_Analysis')
-txt4('Cluster analysis of NGC 7531 spiral galaxy ', 'Analyzed a star formation of a sub spiral galaxy of ` 323 points ` in space to detect and categorize clusters of stars and HII regions','')
+txt4('Genes sequences causing bladder cancer', 'A classification model using tableau and python to detect three types of bladder cancer among ` 7000+ ` unique gene expression', 'https://shorturl.at/yzKW3')
+txt4('Cluster analysis of NGC 7531 spiral galaxy ', 'Analyzed a star formation of a sub spiral galaxy of ` 323 points ` in space to detect and categorize clusters of stars and HII regions','https://shorturl.at/ijlxI')
 # txt4('BioCurator', 'A web server for curating ChEMBL bioactivity data', 'http://codes.bio/biocurator/')
 # txt4('CryoProtect', 'A web server for classifying antifreeze proteins from non-antifreeze proteins','http://codes.bio/cryoprotect/')
-
 
 #####################
 st.markdown('''
