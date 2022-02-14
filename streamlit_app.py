@@ -16,8 +16,8 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Educator, Researcher and Administrator with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
+- Motivated data scientist with 1 year of work experience as a data scientist. Passionate about building models that fix problems. Relevant skills include machine learning, problem-solving, programming, and creative thinking.
+- Areas of Interest  are Computer Vision, Health Care Analytics and Bioinformatics.
 ''')
 
 #####################
