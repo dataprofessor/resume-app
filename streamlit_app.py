@@ -16,7 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Motivated data scientist with 1 year of work experience as a data scientist. Passionate about building models that fix problems. Relevant skills include machine learning, problem-solving, programming, and creative thinking.
+- Motivated data scientist with 1 year of relavent work experience. Passionate about building models that fix problems. Relevant skills include machine learning, problem-solving, programming, and creative thinking.
 - Areas of Interest  are Computer Vision, Health Care Analytics and Bioinformatics.
 ''')
 
